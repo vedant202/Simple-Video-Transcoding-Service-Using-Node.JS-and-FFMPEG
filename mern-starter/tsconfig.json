@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "commonjs",
+		"rootDir": "./",
+		"moduleResolution": "node",
+		"typeRoots": ["./node_modules/@types", "./src/types/*"],
+		"resolveJsonModule": true,
+		"declaration": true,
+		"outDir": "./dist",
+		"removeComments": true,
+		"declarationDir": "./dist/@types",
+		"isolatedModules": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"alwaysStrict": true,
+		"skipDefaultLibCheck": true,
+		"skipLibCheck": true
+	},
+	"exclude": ["node_modules", "./dist", "./jest*"]
+}
+
