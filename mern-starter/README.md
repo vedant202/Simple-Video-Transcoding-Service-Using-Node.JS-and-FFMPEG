@@ -23,3 +23,11 @@ HLS supports encryption and digital rights management (DRM) to protect content f
 FFmpeg is a powerful, open-source software suite for handling multimedia data. It is used for recording, converting, and streaming audio and video.
 
 It offers a command-line tool that is used to convert video and audio in different formats. Along with that it is capable of scaling, cropping, and filtering video files.
+
+# Download FFMPEG
+## ON Windows
+winget list ffmpeg
+
+OR
+Download from official site
+https://www.gyan.dev/ffmpeg/builds/
