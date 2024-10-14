@@ -26,7 +26,7 @@ It offers a command-line tool that is used to convert video and audio in differe
 
 # Download FFMPEG
 ## ON Windows
-winget list ffmpeg
+winget install ffmpeg
 
 OR
 Download from official site
